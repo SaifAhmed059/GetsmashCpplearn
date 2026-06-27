@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int x ; // global variable
+int x=10 ; // global variable
 
 int main()
 {
