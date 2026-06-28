@@ -11,12 +11,22 @@ using namespace std;
 //     return 0;
 // }
 
+// int main()
+// {
+//     int a = 1;
+//     int b = a++ + a++ + --a;
+
+//     cout << b;
+
+//     return 0;
+// }
+
 int main()
 {
-    int a = 1;
-    int b = a++ + a++ + --a;
+    int a = 5 == 10 !=20;
+    
 
-    cout << b;
+    cout << a;
 
     return 0;
 }
